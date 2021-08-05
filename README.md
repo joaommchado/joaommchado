@@ -1,26 +1,30 @@
 <div style="display: blox, margin: 100px;">
 	<div
-			 <h3> Informações Básicas Sobre o João 👋 </h3>
-			 <p>🔭 Atuamente trabalho com Power Platform e Dynamics365</p>
-			 <p>🌱 Recentemente estou estudando Javascript e Python</p>
-			 <p>📫 How to reach me: joaommchado@gmail.com</p>
-			 <p>📫 How to reach me: joaommchado@gmail.com</p>
-			 <p> ⚡ Fun fact: Sou muito competitivo</p>
+		<b><h1 align="center"> Informações Básicas Sobre o João 👋</h1></b>
+		<p align="left">🔭 Atuamente trabalho com Power Platform e Dynamics365</p>
+		<p align="left">🌱 Recentemente estou estudando Javascript e Python</p>
+		<p align="left">📫 How to reach me: joaommchado@gmail.com</p>
+		<p align="left">📫 How to reach me: joaommchado@gmail.com</p>
+		<p align="left"> ⚡ Fun fact: Sou muito competitivo</p>
+		<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
 	</div>
-	 <div>
-			<a href="https://github.com/joaommchado">
-			<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaommchado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-			<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaommchado&layout=compact&langs_count=7&theme=dracula"/>
+	 <div align="center">
+		<a href="https://github.com/joaommchado">
+		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaommchado&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaommchado&layout=compact&langs_count=7&theme=midnight-purple"/>
 	</div>
- <div style="display: inline_block"><br>
-  	<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  	<img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  	<img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  	<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  	<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  	<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  	<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+	<div>
+		<b><h2 align="center"> Principais Projetos 👋</h2></b>
+	</div>
+	 <div style="display: inline_block"><br>
+  		<img align="center" alt="Jota-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  		<img align="center" alt="Jota-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  		<img align="center" alt="Jota-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  		<img align="center" alt="Jota-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  		<img align="center" alt="Jota-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  		<img align="center" alt="Jota-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  		<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+	</div>
   
   ##
  
